@@ -33,7 +33,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 >
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+The most important setting here is the network configuration. Make sure we have two network adapters enabled. One under NAT and one as internal network renamed as you would like. This will allow the DC machine to connect to the internet and communicate with the client machine. 
 </p>
 <br />
 
