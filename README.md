@@ -4,7 +4,7 @@
 </p>
 
 <h1>On-premises Active Directory Deployed using Oracle VirtualBox</h1>
-This tutorial outlines the implementation of on-premises Active Directory within Oracle VirtualBox Virtual Machines. We use two VMs to simulate an enterprise enviornment. One VM as a domain controller and the other as a client machine. We are using VirtualBox specifically because it allows us to create VMs and place them within the same virtual network.<br />
+This tutorial outlines the implementation of on-premises Active Directory within Oracle VirtualBox virtual machines. We use two VMs to simulate an enterprise enviornment. One VM as a domain controller and the other as a client machine. We are using VirtualBox specifically because it allows us to create VMs and place them within the same virtual network.<br />
 
 
 <h2>Video Demonstration</h2>
