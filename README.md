@@ -24,7 +24,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 
 
-<h2>Important Deployment and Configuration Steps</h2>
+<h2>Important  Configuration and Deployment Steps</h2>
 
 - Configuration for Domain Controller machine
 
