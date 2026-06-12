@@ -26,7 +26,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>Important Deployment and Configuration Steps</h2>
 
-- Configuration for DC machine
+- Configuration for Domain Controller machine
 
 <p>
 <img width="489" height="583" alt="image" src="https://github.com/user-attachments/assets/91c278cf-db6f-40db-82a3-037f229231de" />
@@ -36,12 +36,13 @@ This tutorial outlines the implementation of on-premises Active Directory within
 The most important setting here is the network configuration. Make sure we have two network adapters enabled. One under NAT and one as internal network renamed as you would like. This will allow the DC machine to connect to the internet and communicate with the client machine. 
 </p>
 <br />
-
+- Configuration for Client Machine
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="487" height="535" alt="image" src="https://github.com/user-attachments/assets/b14fbe0f-6aa0-4064-8689-59d8cd632190" />
+>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Similarly, make sure the network adapter here is under the same internal network as the DC machine. This allows communication between both machines.
 </p>
 <br />
 
