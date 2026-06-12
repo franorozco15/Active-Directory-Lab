@@ -9,7 +9,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: Active Directory Setup](https://youtu.be/znJBrEnuL20))
+- ### [YouTube: Active Directory Setup](https://youtu.be/znJBrEnuL20)
 
 <h2>Environments and Technologies Used</h2>
 
