@@ -48,10 +48,14 @@ Similarly, make sure the network adapter here is under the same internal network
 </p>
 <br />
 
+- Adding admin account to Domain Admins
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+<img width="463" height="400" alt="image" src="https://github.com/user-attachments/assets/859d6895-089c-47bc-9529-9884a6019089" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+We have made our first admin account(in this case, the John Doe account). Now we have to add this account to the Domain Admins group. This will allow the account to make changes to the domain.
 </p>
 <br />
