@@ -59,3 +59,13 @@ Similarly, make sure the network adapter here is under the same internal network
 We have made our first admin account(in this case, the John Doe account). Now we have to add this account to the Domain Admins group. This will allow the account to make changes to the domain.
 </p>
 <br />
+
+- Adding Client VM to Domain
+
+<p>
+<img width="336" height="378" alt="image" src="https://github.com/user-attachments/assets/3259ee04-3993-4165-84c2-853e1ee495ac" />
+
+</p>
+<p>
+When renaming the client machine, we will choose the advanced option. Then make sure we have the domain option selected and the correct domain name entered.
+</p>
