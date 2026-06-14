@@ -15,7 +15,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 - Oracle VirtualBox (Virtual Machines)
 - Active Directory Domain Services
-- PowerShell
+- Command Prompt
 
 <h2>Operating Systems Used </h2>
 
