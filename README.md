@@ -69,3 +69,14 @@ We have made our first admin account(in this case, the John Doe account). Now we
 <p>
 When renaming the client machine, we will choose the advanced option. Then make sure we have the domain option selected and the correct domain name entered.
 </p>
+<br />
+
+- Confirming communication between both machines
+
+<img width="463" height="355" alt="image" src="https://github.com/user-attachments/assets/b47a4a43-2788-4c11-89f1-80c43304a342" />
+
+<img width="433" height="187" alt="image" src="https://github.com/user-attachments/assets/33519867-95b2-4917-a6bd-7e0d93a3eee5" />
+
+<p>
+We can use the command prompt to ping each machine from the other. And here we can see that both machines are able to send and receive packets. 
+</p>
